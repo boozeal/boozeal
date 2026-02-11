@@ -8,5 +8,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=boozeal&show_icons=true&locale=en" alt="boozeal" /></p>  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=boozeal&show_icons=true&locale=en&layout=compact" alt="boozeal" /></p>
